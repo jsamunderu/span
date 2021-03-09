@@ -1,0 +1,17 @@
+This script agregate scores for teams.
+
+# Running
+
+# Specify an input file
+
+```
+python score.py -f <filename>
+```
+
+or 
+
+## Input data from STDIN
+
+```
+python score.py
+```
